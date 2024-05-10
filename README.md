@@ -23,7 +23,7 @@ You will need a basic Javascript development environment. Some examples:
 Cloning this repository and calling yarn in the main directory should give you the necessary software to begin development:
 
 ```
-$ git clone https://github.com/nguyen-amanda/strong-attractor gravitas
+$ git clone https://github.com/amanda-doan/gravitas.git
 $ yarn
 ```
 
@@ -36,13 +36,11 @@ $ yarn
 ## Running
 To run the program, simply open the index.html file in the browser of your choice.
 
-## Authors
+## Acknowledgments
 
+* Paul Cantrell
 * Matt Davids
 * Ilse Dippenaar
 * Tara Feldstein
-* Amanda Doan
-
-## Acknowledgments
-
-* Our amazing professor Paul Cantrell
+* Emma Thole
+* Luke Brown
